@@ -1,0 +1,8 @@
+[project]
+name = "usc_09201_15"
+version = "0.1.0"
+description = "林地争议调解卷服务基础"
+requires-python = ">=3.11"
+
+[tool.unittest]
+start-directory = "tests"
